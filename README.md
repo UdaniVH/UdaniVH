@@ -5,7 +5,7 @@
 - 📫 How to reach me here
 - https://www.linkedin.com/in/vindhyaudani/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am afraid to die, bcz still I haven't use my codibg knowledge to built anything worth.
+- ⚡ Fun fact: I am afraid to die, bcz still I haven't use my coding knowledge to built anything worth.
 
 <!---
 UdaniVH/UdaniVH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
